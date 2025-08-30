@@ -42,7 +42,7 @@ ETL (Power Query) – limpeza e modelagem dos dados.
 O dashboard busca apoiar a gestão financeira, permitindo identificar gargalos, controlar despesas por setor e otimizar a distribuição dos recursos da empresa.
 
 📷 Exemplo do Dashboard
-https://github.com/victor-analyst/Cost-Sector/blob/dc1dc3923754987a08552692b679801348db2f79/Screen%20Cost.PNG
+!https://github.com/victor-analyst/Cost-Sector/blob/dc1dc3923754987a08552692b679801348db2f79/Screen%20Cost.PNG
 
 📌 Próximos Passos
 
