@@ -43,6 +43,7 @@ O dashboard busca apoiar a gestão financeira, permitindo identificar gargalos, 
 
 📷 Exemplo do Dashboard
 ![Dashboard Financeiro](https://github.com/victor-analyst/Cost-Sector/blob/dc1dc3923754987a08552692b679801348db2f79/Screen%20Cost.PNG)
+
 📌 Próximos Passos
 
 Incluir filtros adicionais para análise por ano/mês.
